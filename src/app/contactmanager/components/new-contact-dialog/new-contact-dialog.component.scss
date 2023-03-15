@@ -1,0 +1,8 @@
+.exmaple-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.exmaple-container > * {
+  width: 100%;
+}
